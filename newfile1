@@ -1,2 +1,8 @@
 HelloWorld.class  HelloWorld.java  index  listoffiles  newfile1
+
 This file exists in R1.17.1. It will not be visible in other branches e.g. master and R1.17.0.
+
+This file exists in R1.17.0.
+This line should not be visible in other branches e.g master and R1.17.1.
+
+This is merged file from R1.17.0.
